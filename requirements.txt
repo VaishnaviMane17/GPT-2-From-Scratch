@@ -1,0 +1,9 @@
+torch
+tiktoken
+tqdm
+matplotlib
+urllib3
+psutil
+json
+re
+numpy  # For any numerical ops if needed
