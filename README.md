@@ -6,10 +6,10 @@ By building GPT-2 step by step, this project demonstrates how modern language mo
 
 The full pipeline include:
 
-### Data preprocessing and tokenization
+#### Data preprocessing and tokenization
 
-## Transformer architecture implementation
+#### Transformer architecture implementation
 
-## Training loop and optimization
+#### Training loop and optimization
 
-## Text generation through autoregressive decoding
+#### Text generation through autoregressive decoding
